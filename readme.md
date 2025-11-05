@@ -22,6 +22,12 @@ colcon build --symlink-install --packages-select auto_turtle
 source install/setup.bash
 ```
 
+# Install apriltag_msg package
+
+```
+sudo apt install ros-humble-apriltag-msgs
+```
+
 # Launch Project
 
 ```
