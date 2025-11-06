@@ -1,7 +1,7 @@
 # Clone Repo in `workspace/src` directory
 
 ```
-git clone https://github.com/htil/turtlebot3-boiler-plater
+git clone https://github.com/htil/turtlebot3-boiler-plate
 ```
 
 # cd to workspace
